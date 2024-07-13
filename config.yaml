@@ -1,0 +1,9 @@
+path: '/content/drive/MyDrive/CS231/CS231'
+train: images/train
+val: images/val
+test: images/test
+
+# Classes
+names:
+  0: ArmDisable
+  1: LegDisable
