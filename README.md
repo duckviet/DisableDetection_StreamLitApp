@@ -25,6 +25,6 @@
 
 # GIỚI THIỆU ĐỒ ÁN
 * **Tên đồ án:** Hệ thống phát hiện và phân loại người khuyết tật
-  
+* **Demo:** [Disable People Detection App](https://disabledetectionappapp-rpwm9p82k67mtvhbds8zrs.streamlit.app/)
 <!-- Footer -->
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`Copyright © 2021 - Đỗ Trọng Khánh`
