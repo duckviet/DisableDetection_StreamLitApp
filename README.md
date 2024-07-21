@@ -25,7 +25,7 @@
 
 # GIỚI THIỆU ĐỒ ÁN
 * **Tên đồ án:** Hệ thống phát hiện và phân loại người khuyết tật
-* **Demo:** [Disable People Detection App](https://disabledetectionappapp-rpwm9p82k67mtvhbds8zrs.streamlit.app/)
+* **Demo:** [Disable People Detection App](https://disabledetectionappapp-lspmcbzjdxsmpudm4ddd6w.streamlit.app/)
 * **Cài đặt:** `git clone <GitHub Link>` ->  `streamlit run .\app.py`
 <!-- Footer -->
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`Copyright © 2021 - Đỗ Trọng Khánh`
